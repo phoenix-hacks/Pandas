@@ -1,0 +1,8 @@
+kivy
+SpeechRecognition
+plyer
+functools
+pyttsx3
+nltk
+scikit_learn
+numpy
